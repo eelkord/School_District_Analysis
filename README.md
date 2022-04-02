@@ -79,7 +79,7 @@ o	Scores by school size
 
  
 Thomas High School is in the medium range
-o	Scores by school type
+#### 	Scores by school type
  ![image](https://user-images.githubusercontent.com/100106554/161361548-94d7be0a-ab9d-4430-93a4-af604c210b75.png)
 
 ## Summary:
