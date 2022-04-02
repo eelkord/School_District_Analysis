@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-##A written Report for the School District Analysis
+## A written Report for the School District Analysis
 
 
 
