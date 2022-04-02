@@ -6,16 +6,16 @@
 
 
 
-**** Overview of the school district analysis:
+## Overview of the school district analysis:
 
 
-**** The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help
+The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help
 
 We want to see now how removing test results from Thomas High School’s grade 9 class will affect the overall results which was obtained in the assessment in Module 4
 
 
 
-#Result/Analysis:
+## Result/Analysis:
 
 Initially we covered all school grades of reading and math at Thomas High School for the ninth grade by replacing the scores to NaN
 
@@ -29,8 +29,10 @@ And the total of students not including Thomas High School grade 9 was 38709
 
 
 
-##Next:
-The School District Analysis
+## Next:
+
+#### The School District Analysis
+
 In this section, we reanalyzed the following metrics after excluding the 9th-graders test results:
 •	The district summary
 •	The school summary
@@ -46,6 +48,7 @@ o	The overall Passing Percentage for both math and reading was 64.86%
 o	Passing Math percentage became 74.8%
 
 -	How is the school summary affected?
+
 Using the same method from previous examples, created school type, total students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Passing Math, %Passing reading and the % overall Passing
  
  ![image](https://user-images.githubusercontent.com/100106554/161361507-5cbf9a2b-74a6-46f3-b3ca-eed84d307292.png)
@@ -54,6 +57,7 @@ Using the same method from previous examples, created school type, total student
  
  
 Thomas High School Overall Passing Percentage went down to 65% after removing the 9th grade testing
+
 -	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Math became 99.9% as oppose to 93.27% before
 And reading become 69.66% from 97.31% before
@@ -75,6 +79,6 @@ Thomas High School is in the medium range
 o	Scores by school type
  ![image](https://user-images.githubusercontent.com/100106554/161361548-94d7be0a-ab9d-4430-93a4-af604c210b75.png)
 
-Summary:
+## Summary:
 
 Overall, replacing all of Thomas High School’s grade 9th math and reading results with Nan has negatively affected the data frame. Thomas High School overall percentage of passing students dropped from 2nd to 8th. And affected the charter schools and sized in the range of 1000 to 2000 kids
