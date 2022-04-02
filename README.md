@@ -1,12 +1,12 @@
 # School_District_Analysis
 
-A written Report for the School District Analysis
+##A written Report for the School District Analysis
 
 
 
 
 
-Overview of the school district analysis:
+#Overview of the school district analysis:
 
 
 The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help
@@ -15,7 +15,7 @@ We want to see now how removing test results from Thomas High School’s grade 9
 
 
 
-Result/Analysis:
+#Result/Analysis:
 
 Initially we covered all school grades of reading and math at Thomas High School for the ninth grade by replacing the scores to NaN
 
@@ -29,7 +29,7 @@ And the total of students not including Thomas High School grade 9 was 38709
 
 
 
-Next:
+##Next:
 The School District Analysis
 In this section, we reanalyzed the following metrics after excluding the 9th-graders test results:
 •	The district summary
