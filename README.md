@@ -44,10 +44,11 @@ In this section, we reanalyzed the following metrics after excluding the 9th-gra
 Recalculated the passing math and passing reading percentage and overall passing percentage
 
  ![image](https://user-images.githubusercontent.com/100106554/161361494-f04f0034-5258-4d9c-9bb4-58971a8cd067.png)-	How is the district summary affected?
+
 o	The overall Passing Percentage for both math and reading was 64.86%
 o	Passing Math percentage became 74.8%
 
--	How is the school summary affected?
+#### 	How is the school summary affected?
 
 Using the same method from previous examples, created school type, total students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Passing Math, %Passing reading and the % overall Passing
  
@@ -58,10 +59,12 @@ Using the same method from previous examples, created school type, total student
  
 Thomas High School Overall Passing Percentage went down to 65% after removing the 9th grade testing
 
--	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+#### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
 Math became 99.9% as oppose to 93.27% before
 And reading become 69.66% from 97.31% before
--	How does replacing the ninth-grade scores affect the following:
+
+#### How does replacing the ninth-grade scores affect the following:
 
 o	Math and reading scores by grade – Math for 9th grade went from 83.27% to 80.12% and reading did not change
 o	Scores by school spending
